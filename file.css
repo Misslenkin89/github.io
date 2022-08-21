@@ -21,3 +21,9 @@ main h2 {
     font-size: 25px;
     color: aqua;
 }
+
+table {
+    border: 1px;
+    color: black;
+}
+   
