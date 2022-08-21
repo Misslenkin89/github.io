@@ -1,0 +1,23 @@
+body {
+    margin: 50px;
+    padding: 50px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+main h1 {
+    font-size: 50px;
+    color: salmon;
+    font-style: italic;
+}
+
+main h2 {
+    font-size: 30px;
+    color: aquamarine;
+    font-style: oblique;   
+}
+
+.study h2 {
+    font-size: 25px;
+    color: aqua;
+}
