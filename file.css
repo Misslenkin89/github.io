@@ -22,8 +22,14 @@ main h2 {
     color: aqua;
 }
 
-tr {
-    border: 10px;
-    border-color: black;
+table {
+    width: 100px;
+    border-collapse: collapse;
 }
-   
+
+td, th {
+    padding: 3px;
+    border: 1px solid black;
+}
+
+
