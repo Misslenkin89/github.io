@@ -22,7 +22,7 @@ main h2 {
     color: aqua;
 }
 
-thead {
+tr {
     border: 10px;
     border-color: black;
 }
