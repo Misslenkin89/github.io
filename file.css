@@ -22,8 +22,8 @@ main h2 {
     color: aqua;
 }
 
-table {
+thead {
     border: 10px;
-    color: black;
+    border-color: black;
 }
    
